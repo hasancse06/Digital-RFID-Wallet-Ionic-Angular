@@ -1,7 +1,8 @@
-# Digital RFID Wallet Ionic Angular
+# 💳 Digital RFID Wallet – Ionic Angular
+This **free and open-source mobile wallet** lets shop owners and managers effortlessly handle **customer payments** using **Mifare Classic NFC tags/cards**.  
+Track balances, view transaction history, and enable **secure contactless payments** through the **Woo Wallet API Extended plugin** — all in a modern, responsive app interface.
 
-A **modern digital wallet system** built with **WordPress, WooCommerce, and Ionic Angular** that allows shop owners and managers to securely manage customer transactions using **NFC tags/cards**.  
-This project integrates with **TeraWallet** and extends its API using a custom plugin (**Woo Wallet API Extended**) to enable seamless **contactless payments, balance checking, and transaction history** through **Mifare Classic NFC cards**.  
+Transform your shop into a **cashless, NFC-powered ecosystem** with the **Digital RFID Wallet** built on **Ionic + Angular**, fully compatible with **WordPress, WooCommerce, and TeraWallet**.
 
 ---
 
@@ -90,16 +91,10 @@ git clone https://github.com/YOUR_USERNAME/Digital-RFID-Wallet-Ionic-Angular.git
 cd Digital-RFID-Wallet-Ionic-Angular
 ```
 
-## 🧠 SEO Keywords
-
-- Digital Wallet for Shop Owners
-- WooCommerce NFC Wallet 
-- WordPress NFC Wallet 
-- Ionic Angular Digital Wallet App  
-- RFID Payment System WooCommerce  
-- TeraWallet NFC Integration  
-- Contactless Payment App for WordPress  
-- Mifare Classic NFC Wallet App  
+## Screenshots
+![ScreenShot](rfid-cover.png)
+![ScreenShot](rfid-ss-1.png)
+![ScreenShot](rfid-ss-4.png)
 
 
    
